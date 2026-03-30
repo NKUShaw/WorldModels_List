@@ -4,4 +4,5 @@
 
 - **[Paper](https://arxiv.org/pdf/2511.19861)**
 - **[Code](https://github.com/open-gigaai/giga-world-0)**
-- **Summary**: 
+- **Summary**:
+- GigaWorld-0 = Video + 3D
